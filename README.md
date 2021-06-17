@@ -1,4 +1,4 @@
-# WeAlumni Management Software
+# Training Program
 
 This project is managed by
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;Information Technology Support (Dept.)

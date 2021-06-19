@@ -27,3 +27,6 @@ This project is managed by
 ## Documentation
  
 &nbsp;&nbsp;&nbsp;&nbsp;Training Plan: https://docs.google.com/spreadsheets/d/10LWIMkN1GKAGU5J-leD820uSkxf4ccyXfWJi55BTkXE/edit?usp=sharing
+
+## Contributing
+[Contributing](./CONTRIBUTING.md)

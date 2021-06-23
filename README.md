@@ -23,6 +23,8 @@ This project is managed by
 |                            | Jianlong Chen              |
 |                            | Yiwen Yang                 |
 |                            | Jinyang Huang              |
+|                            | Yongbo Wang                |
+|                            | Zeyun Feng                 |
 
 ## Documentation
  
